@@ -1,0 +1,10 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "inventory": "Backpack",
+  "expected": "ADD TO CART",
+  "postalcode":"53122",
+  "firstname" : "Naveen",
+  "lastname" : "oz"
+}
+
